@@ -42,25 +42,19 @@ INCLUDED IN THIS PACKAGE:
 
         Gameboy Games
 
-Must be opened with the BGB emulator.
-
 - Kirby: Nightmare in Dreamland
 - Pokemon Ruby
 - Legend of Zelda: Link's Awakening DX
 - Super Mario World (GBA)
 
 
-       N64/Wii Games
-
-Must be opened with the Dolphin emulator.
+       N64 Games
 
 - Super Mario 64
 - Mario Kart 64
 
 
         NES Games
-
-Must be opened with the FCEUX emulator.
 
 - Super Mario Bros.
 - Super Mario Bros. 2 (USA)
