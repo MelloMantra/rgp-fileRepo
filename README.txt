@@ -13,7 +13,13 @@ hope you enjoy your experience with RetroGamePackage.
 -------------------------------------------------------------
 
 To play any game, simply open the RGP Navigator and let it 
-guide you through choosing a game.
+guide you through choosing a game. If you don't know what the
+acronyms used in the Navigator mean, refer to the key below:
+
+NES: Nintendo Entertainment System (1985)
+GBA: GameBoy Advance (2001)
+GBC: GameBoy Color (1998)
+N64: Nintendo 64 (1996)
 
 DISCLAIMER: Some programs and/or emulators are only compatible 
 with Windows. For programs to work at school, do not remove them 
