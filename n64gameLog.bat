@@ -1,0 +1,1 @@
+echo User plays a game for the N64 on %date% at %time%.>> log.txt

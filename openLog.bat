@@ -1,0 +1,1 @@
+echo User opens Navigator on %date% at %time%.>> log.txt
