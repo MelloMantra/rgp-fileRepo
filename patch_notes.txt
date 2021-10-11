@@ -1,0 +1,38 @@
+*** RGP STARTER PACK RELEASE VER. 1.1.0 PATCH NOTES ***
+-------------------------------------------------------
+
+
+Game Additions:
+Tetris
+
+Emulator Additions:
+1964
+mGBA
+
+Previously unplayable N64 games are now playable.
+
+Previously unplayable GBA games are now playable.
+
+Setup program added.
+
+Navigation UI introduced.
+
+Instructions clarified and simplified.
+
+Game launch method revamp.
+
+File installation (non-interactive) interface added.
+
+Updated terms of service.
+
+Package cloud storage method completely changed.
+
+File writing software altered.
+
+File extraction programs added for temporary use during installation.
+
+420 new lines of code written.
+
+
+------------------------------------------------
+These patch notes are up to date as of 10/10/21.
