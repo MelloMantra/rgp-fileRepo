@@ -20,7 +20,7 @@ responsibility of the user to manage their
 RetroGamePackage file(s) and/or module(s). 
 Under penalty of the permanent withdrawal of 
 RetroGamePackage services, you shall not, 
-under any circumstances, share and/or 
+under any circumstances, share, resell and/or 
 distribute any RetroGamePackage modules, 
 files, packs, etc. In the case that the user 
 does blunder their way into trouble with a
