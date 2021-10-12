@@ -1,1 +1,0 @@
-echo User plays a game for the GBC on %date% at %time%.>> log.txt
