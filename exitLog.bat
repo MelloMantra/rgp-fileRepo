@@ -1,1 +1,0 @@
-echo User closes Navigator on %date% at %time%.>> log.txt
