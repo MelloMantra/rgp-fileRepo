@@ -31,7 +31,7 @@ File writing software altered.
 
 File extraction scripts added for use during installation.
 
-410 new lines of code written.
+449 new lines of code written.
 
 Log system implemented.
 
