@@ -29,11 +29,13 @@ Package cloud storage method completely changed.
 
 File writing software altered.
 
-File extraction programs added for temporary use during installation.
+File extraction scripts added for use during installation.
 
 410 new lines of code written.
 
 Log system implemented.
+
+Various other bugs and installation issues fixed.
 
 
 ------------------------------------------------
