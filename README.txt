@@ -42,7 +42,7 @@ Visit the website {https://retrogamepackage.wixsite.com/home} for more info.
 -----------------------------------------------------------------------------
 INCLUDED IN THIS PACKAGE:
 
-•3 Emulators
+•4 Emulators
 •14 Games
 
 
@@ -89,7 +89,8 @@ files, packs, etc.In the case that the user
 does blunder their way into trouble with a
 RetroGamePackage product, their access will
 be temporarily suspended until all issues
-have been resolved.
+have been resolved. 
+This is verbatim from the EULA.txt.
 
 -------------------------------------------------------------
 
