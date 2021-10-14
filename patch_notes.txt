@@ -1,4 +1,4 @@
-*** RGP STARTER PACK RELEASE VER. 1.4.2 PATCH NOTES ***
+*** RGP STARTER PACK RELEASE VER. 1.5.1 PATCH NOTES ***
 -------------------------------------------------------
 
 
@@ -42,4 +42,4 @@ Various other bugs and installation issues fixed.
 
 
 ------------------------------------------------
-These patch notes are up to date as of 10/13/21.
+These patch notes are up to date as of 10/14/21.
