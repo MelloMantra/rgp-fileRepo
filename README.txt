@@ -13,8 +13,13 @@ hope you enjoy your experience with RetroGamePackage.
 -------------------------------------------------------------
 
 To play any game, simply open the RGP Navigator and let it 
-guide you through choosing a game. If you don't know what the
-acronyms used in the Navigator mean, refer to the key below:
+guide you through choosing a game. There is one exception to 
+this, and that is regarding GBA/GBC games. To open them, you must 
+open them with VisualBoy.exe, located in the 
+""C:\Users\%username%\OneDrive - Chandler Unified School District 
+#80\RetroGamePackage\Starter_Pack\Contents\emuStore\" filepath.
+If you don't know what =the acronyms used in the Navigator mean, 
+refer to the key below:
 
 NES: Nintendo Entertainment System (1985)
 GBA: GameBoy Advance (2001)
