@@ -4,14 +4,17 @@
 
 Game Additions:
 Tetris
+Pokemon FireRed
 
 Emulator Additions:
-1964
-mGBA
+Project64
+VisualBoy
 
 Previously unplayable N64 games are now playable.
 
 Previously unplayable GBA games are now playable.
+
+BGB emulator discarded.
 
 Setup program added.
 
