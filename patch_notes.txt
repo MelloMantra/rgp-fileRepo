@@ -4,7 +4,6 @@
 
 Game Additions:
 Tetris
-Pokemon FireRed
 
 Emulator Additions:
 Project64
