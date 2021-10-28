@@ -48,7 +48,7 @@ Visit the website {https://retrogamepackage.wixsite.com/home} for more info.
 INCLUDED IN THIS PACKAGE:
 
 •4 Emulators
-•14 Games
+•13 Games
 
 
         Gameboy Games
@@ -56,7 +56,6 @@ INCLUDED IN THIS PACKAGE:
 - Kirby: Nightmare in Dreamland
 - Pokemon Ruby
 - Legend of Zelda: Link's Awakening DX
-- Super Mario World (GBA)
 
 
        N64 Games
