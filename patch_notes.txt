@@ -1,9 +1,12 @@
-*** RGP STARTER PACK RELEASE VER. 1.5.1 PATCH NOTES ***
+*** RGP STARTER PACK RELEASE VER. 1.6.1 PATCH NOTES ***
 -------------------------------------------------------
 
 
 Game Additions:
 Tetris
+
+Game Removals:
+Super Mario World (GBA)
 
 Emulator Additions:
 Project64
@@ -33,6 +36,8 @@ File writing software altered.
 
 File extraction scripts added for use during installation.
 
+Shortcuts added for ease of access.
+
 449 new lines of code written.
 
 Log system implemented.
@@ -41,4 +46,4 @@ Various other bugs and installation issues fixed.
 
 
 ------------------------------------------------
-These patch notes are up to date as of 10/14/21.
+These patch notes are up to date as of 10/28/21.
