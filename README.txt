@@ -13,12 +13,13 @@ hope you enjoy your experience with RetroGamePackage.
 -------------------------------------------------------------
 
 To play any game, simply open the RGP Navigator and let it 
-guide you through choosing a game. There is one exception to 
-this, and that is regarding GBA/GBC games. To open them, you must 
-open them with VisualBoy.exe, located in the 
-""C:\Users\%username%\OneDrive - Chandler Unified School District 
-#80\RetroGamePackage\Starter_Pack\Contents\emuStore\" filepath.
-If you don't know what =the acronyms used in the Navigator mean, 
+guide you through choosing a game. The first time you try to
+run a game for each console, you will need to choose what app
+to open that filetype with. All you need to do on these initial
+occassions is scroll down and click "Look for an app on this PC"
+and navigate to the corresponding emulator shortcut (they will 
+be in the same folder as the navigator program.)
+If you don't know what the acronyms used in the Navigator mean, 
 refer to the key below:
 
 NES: Nintendo Entertainment System (1985)
@@ -26,8 +27,7 @@ GBA: GameBoy Advance (2001)
 GBC: GameBoy Color (1998)
 N64: Nintendo 64 (1996)
 
-DISCLAIMER: Some programs and/or emulators are only compatible 
-with Windows. For programs to work at school, do not remove them 
+DISCLAIMER: For programs to work at school, do not remove them 
 from your OneDrive folder.
 
 -------------------------------------------------------------
