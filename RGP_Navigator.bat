@@ -15,7 +15,7 @@ echo      ##              ###         ###############          ##
 echo.
 echo.
 echo                             Copyright RGP Products, 2021
-echo                                     VER. 1.6.1
+echo                                     VER. 1.6.2
 echo.
 pause
 cls
