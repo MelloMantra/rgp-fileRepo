@@ -4,6 +4,8 @@
 
 Game Additions:
 Tetris
+Pac-Man
+Galaga
 
 Game Removals:
 Super Mario World (GBA)
