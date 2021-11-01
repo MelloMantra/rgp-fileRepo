@@ -1,4 +1,4 @@
-*** RGP STARTER PACK RELEASE VER. 1.6.1 PATCH NOTES ***
+*** RGP STARTER PACK RELEASE VER. 1.6.2 PATCH NOTES ***
 -------------------------------------------------------
 
 
@@ -11,12 +11,16 @@ Super Mario World (GBA)
 Emulator Additions:
 Project64
 VisualBoy
+Nestopia
+
+Emulator Removals:
+1964
+BGB
+FCEUX
 
 Previously unplayable N64 games are now playable.
 
 Previously unplayable GBA games are now playable.
-
-BGB emulator discarded.
 
 Setup program added.
 
@@ -46,4 +50,4 @@ Various other bugs and installation issues fixed.
 
 
 ------------------------------------------------
-These patch notes are up to date as of 10/28/21.
+These patch notes are up to date as of 11/1/21.
