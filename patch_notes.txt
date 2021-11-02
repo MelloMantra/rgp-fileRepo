@@ -48,8 +48,10 @@ Shortcuts added for ease of access.
 
 Log system implemented.
 
+Advanced options added.
+
 Various other bugs and installation issues fixed.
 
 
 ------------------------------------------------
-These patch notes are up to date as of 11/1/21.
+These patch notes are up to date as of 11/2/21.
