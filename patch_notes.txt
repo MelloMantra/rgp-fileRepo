@@ -1,4 +1,4 @@
-*** RGP STARTER PACK RELEASE VER. 1.6.2 PATCH NOTES ***
+*** RGP STARTER PACK RELEASE VER. 1.7 PATCH NOTES ***
 -------------------------------------------------------
 
 
@@ -52,6 +52,8 @@ Advanced options added.
 
 Various other bugs and installation issues fixed.
 
+YOU ARE NOW ABLE TO PLAY OUTSIDE OF SCHOOL
+
 
 ------------------------------------------------
-These patch notes are up to date as of 11/2/21.
+These patch notes are up to date as of 11/12/21.
