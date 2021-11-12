@@ -44,7 +44,7 @@ File extraction scripts added for use during installation.
 
 Shortcuts added for ease of access.
 
-483 new lines of code written.
+521 new lines of code written.
 
 Log system implemented.
 
