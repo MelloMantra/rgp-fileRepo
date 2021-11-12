@@ -24,6 +24,8 @@ Previously unplayable N64 games are now playable.
 
 Previously unplayable GBA games are now playable.
 
+Previously absent arcade games replaced.
+
 Setup program added.
 
 Navigation UI introduced.
