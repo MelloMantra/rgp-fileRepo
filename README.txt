@@ -72,6 +72,12 @@ INCLUDED IN THIS PACKAGE:
 - Punch-Out!!
 - Metroid
 
+       Arcade Games
+       
+- Tetris
+- Pac-Man
+- Galaga
+
 -------------------------------------------------------------
 
 Thanks again for choosing RetroGamePackage, we hope that you have fun!
