@@ -7,8 +7,9 @@ FAQ:
 
 Q: What do I do when it asks me what app to open a game with?
 
-A: Click "Look for app on this PC" and go into the Starter_Pack folder, where you'll find the three        
-   emulators you need to open any game. Note: Arcade games also use the NES emulator.
+A: Click "Look for app on this PC" and go into the Starter_Pack folder, 
+   where you'll find the three emulators you need to open any game. Note: 
+   Arcade games also use the NES emulator.
 
 
 
@@ -23,9 +24,32 @@ A: GB = GameBoy, NES = Nintendo Entertainment System, N64 = Nintendo 64
 
 Games opening in wrong emulator (consistently):
 
-Go to Contents>library>(game types that are opening in wrong emulator) and right click one of the games. Then, select Open with... and choose the correct emulator. Make sure that when you do this, the box saying "Always open .(extension) files with this application" is checked.
+Go to Contents>library>(game types that are opening in wrong emulator) and 
+right click one of the games. Then, select Open with... and choose the correct 
+emulator. Make sure that when you do this, the box saying 
+"Always open .(extension) files with this application" is checked.
 
 
 Games not opening at all:
 
-Make sure that you only have one RGP Navigator window open, and that it is not maximized.
+Make sure that you only have one RGP Navigator window open, and that it 
+is not maximized.
+
+
+
+--------------------------------------------------
+Still having issues? Your problem not listed here?
+--------------------------------------------------
+CONTACT: 
+
+Discord: Mello Mantra#4380
+Email: mgdr0777@gmail.com
+
+OR:
+
+Talk to Matteo in person.
+--------------------------------------------------
+
+
+
+© RGP Products, 2021
