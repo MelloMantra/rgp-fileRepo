@@ -1,4 +1,4 @@
-*** RGP STARTER PACK RELEASE VER. 1.7 PATCH NOTES ***
+*** RGP STARTER PACK RELEASE VER. 1.8 PATCH NOTES ***
 -------------------------------------------------------
 
 
@@ -7,55 +7,39 @@ Tetris
 Pac-Man
 Galaga
 
-Game Removals:
-Super Mario World (GBA)
-
-Emulator Additions:
-Project64
-VisualBoy
-Nestopia
-
-Emulator Removals:
-1964
-BGB
-FCEUX
-
-Previously unplayable N64 games are now playable.
-
-Previously unplayable GBA games are now playable.
 
 Previously absent arcade games replaced.
 
-Setup program added.
-
-Navigation UI introduced.
-
-Instructions clarified and simplified.
-
-Game launch method revamp.
-
-File installation (non-interactive) interface added.
-
-Updated terms of service.
-
-Package cloud storage method completely changed.
-
 File writing software altered.
 
-File extraction scripts added for use during installation.
+File extraction scripts fixed.
 
-Shortcuts added for ease of access.
+Shortcuts added (and debugged) for ease of access.
 
-521 new lines of code written.
+Total lines of code: 558
 
 Log system implemented.
 
 Advanced options added.
 
-Various other bugs and installation issues fixed.
+YOU ARE NOW ABLE TO PLAY OUTSIDE OF SCHOOL.
 
-YOU ARE NOW ABLE TO PLAY OUTSIDE OF SCHOOL
+Automatic updating system added.
 
+Error detection during installation is now functional.
+
+Username input removed.
+
+Various other bugs and installation issues fixed, details listed below:
+
+- File path recognition switched from %~f0 method to %~dp0
+- Now using 'for /f "tokens=1,2 eol=  delims=|" %%a in ("%rgpPath%\UPDATE_AVAILABLE.txt") do {...}' command line to read text.
+- Custom error detection variable added as %errors% and updated with %errorlevel%.
+  - This stays constant even after a "cls", unlike the default %errorlevel% value.
+- Briefing.txt is now written via webrequest and download.
+  - This is as opposed to manually writing it to the file.
+  - New method saves time as well as lines of code.
+- Unzip script fixed by letting %~dp0 = the file path of the .zip file.
 
 ------------------------------------------------
-These patch notes are up to date as of 11/12/21.
+These patch notes are up to date as of 11/14/21.
