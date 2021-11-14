@@ -1,0 +1,19 @@
+********************************************* 
+I            Retro Game Package             I 
+I             {How it Works}                I 
+********************************************* 
+
+ In the folder of any given pack, you will 
+ find 2 things: a Navigator program and a  
+ README.txt. You can ignore the "Contents"  
+ folder, as everything you need can be found  
+ outside of it. The README will go over what is 
+ included and how everything in the pack 
+ works. 
+
+ To proceed, replace the true1 in the  
+ EULA1.txt to true2. 
+
+ -------------------------------------------- 
+
+ © RGP, 2021 
