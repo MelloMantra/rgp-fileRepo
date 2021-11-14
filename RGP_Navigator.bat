@@ -16,7 +16,7 @@ echo      ##              ###         ###############          ##
 echo.
 echo.
 echo                             Copyright RGP Products, 2021
-echo                                     VER. 1.7
+echo                                     VER. 1.8
 echo.
 pause
 cls
@@ -51,7 +51,7 @@ cd "%packPath%\Contents\library\"
 color 09
 ECHO *** RetroGamePackage Navigator Program ***
 echo.
-echo "a" for advanced options.
+echo "a" for advanced options, "h" for help, or "e" to exit.
 echo Consoles:
 echo 1: NES
 echo 2: GBA
@@ -66,6 +66,7 @@ IF %console%==3 set console=GBC && goto gbcStart
 IF %console%==4 set console=N64 && goto n64Start
 IF %console%==5 set console=Arcade && goto arcadeStart
 if %console%==e goto exitQuery
+if %console%==h goto help
 if %console%==a goto advanced
 color 04
 echo ERROR: User did not enter a valid console name. Please try again.
@@ -253,3 +254,7 @@ if %errorlevel%==2 cls && goto consoleQuery
 cd "%packPath%\Contents\assets\"
 echo User exits nav program on %date% at %time%.>> log.txt
 exit
+:help
+echo User accesses troubleshooting manual on %date% at %time%.>> log.txt
+cd "%packPath%\Contents\assets\" && start /wait troubleshooting.txt
+goto consoleQuery
