@@ -1,3 +1,4 @@
+-------------------------------------------------------
 *** RGP STARTER PACK RELEASE VER. 1.8 PATCH NOTES ***
 -------------------------------------------------------
 
@@ -16,7 +17,7 @@ File extraction scripts fixed.
 
 Shortcuts added (and debugged) for ease of access.
 
-Total lines of code: 558
+Total lines of code: 563
 
 Log system implemented.
 
@@ -43,3 +44,6 @@ Various other bugs and installation issues fixed, details listed below:
 
 ------------------------------------------------
 These patch notes are up to date as of 11/14/21.
+------------------------------------------------
+
+© RGP Products, 2021
