@@ -255,6 +255,6 @@ cd "%packPath%\Contents\assets\"
 echo User exits nav program on %date% at %time%.>> log.txt
 exit
 :help
-echo User accesses troubleshooting manual on %date% at %time%.>> log.txt
 cd "%packPath%\Contents\assets\" && start /wait troubleshooting.txt
+echo User accesses troubleshooting manual on %date% at %time%.>> log.txt && start /wait troubleshooting.txt
 goto consoleQuery
