@@ -1,0 +1,18 @@
+ 0
+ 
+ =========================================================================
+ -~-UPDATE(S) CURRENTLY AVAILABLE FOR YOUR VERSION OF RetroGamePackage!-~-
+ =========================================================================
+ 
+ This update may include bug fixes, new games, new emulators, or a new GUI.
+ Read the patch notes for details. 
+ 
+ NOTICE:
+ DO NOT EDIT THIS DOCUMENT IN ANY WAY. MAKE SURE IT IS ALSO IN THE SAME
+ FOLDER AS YOUR RGP SETUP PROGRAM.
+ 
+ Simply run your RGP Setup program to update your package!
+ 
+ =========================================================================
+ 
+ © RGP Products, 2021
