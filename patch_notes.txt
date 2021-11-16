@@ -3,23 +3,13 @@
 -------------------------------------------------------
 
 
-Game Additions:
-Tetris
-Pac-Man
-Galaga
-
-
-Previously absent arcade games replaced.
-
 File writing software altered.
 
 File extraction scripts fixed.
 
-Shortcuts added (and debugged) for ease of access.
+Shortcuts debugged.
 
-Total lines of code: 563
-
-Log system implemented.
+Total lines of code: 559
 
 Advanced options added.
 
@@ -28,8 +18,6 @@ YOU ARE NOW ABLE TO PLAY OUTSIDE OF SCHOOL.
 Automatic updating system added.
 
 Error detection during installation is now functional.
-
-Username input removed.
 
 Various other bugs and installation issues fixed, details listed below:
 
@@ -43,7 +31,7 @@ Various other bugs and installation issues fixed, details listed below:
 - Unzip script fixed by letting %~dp0 = the file path of the .zip file.
 
 ------------------------------------------------
-These patch notes are up to date as of 11/14/21.
+These patch notes are up to date as of 11/16/21.
 ------------------------------------------------
 
 © RGP Products, 2021
