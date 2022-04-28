@@ -1,3 +1,12 @@
+                   SERVICE DISCONTINUED
+
+                     as of April 2022
+ 
+                       © RGP, 2021
+
+
+
+
 *************************************************************
 |                     Retro Game Package                    |      
 |                       {User Manual}                       |        
