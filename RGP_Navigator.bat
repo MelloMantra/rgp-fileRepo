@@ -5,8 +5,14 @@ echo                 CHECKING FOR UPDATES...
 cd..
 powershell -Command (New-Object Net.WebClient).DownloadFile('https://github.com/MelloMantra/rgp-fileRepo/raw/main/updateLog.txt', 'updateLog.txt')
 powershell -Command Invoke-WebRequest 'https://github.com/MelloMantra/rgp-fileRepo/raw/main/updateLog.txt' -OutFile updateLog.txt
-for /f %%i in ("updateLog.txt") do set size=%%~zi
-if %size% gtr 0 goto updateSoftware
+if exist "updateLog.txt" (
+    for /f "delims=" %%c in ("updateLog.txt") do (
+        if %%c==null goto updateSoftware
+    )
+) else (
+    cls
+    goto updateDone
+)
 :updateDone
 cls
 set /a fun=%random% * 1000 / 32768 + 1
